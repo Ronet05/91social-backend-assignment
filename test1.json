@@ -1,0 +1,584 @@
+{
+  "Loan Creation Date": "06th May 2020",
+  "Principal Amount": 500000,
+  "No Of EMI's": 72,
+  "Total payable amount": 844400.0,
+  "EMI Details": [
+    {
+      "EMI No.": 1,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jun 2020",
+      "Principal Remaining": 832672.23
+    },
+    {
+      "EMI No.": 2,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jul 2020",
+      "Principal Remaining": 820944.46
+    },
+    {
+      "EMI No.": 3,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Aug 2020",
+      "Principal Remaining": 809216.69
+    },
+    {
+      "EMI No.": 4,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Sep 2020",
+      "Principal Remaining": 797488.92
+    },
+    {
+      "EMI No.": 5,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Oct 2020",
+      "Principal Remaining": 785761.15
+    },
+    {
+      "EMI No.": 6,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Nov 2020",
+      "Principal Remaining": 774033.38
+    },
+    {
+      "EMI No.": 7,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Dec 2020",
+      "Principal Remaining": 762305.61
+    },
+    {
+      "EMI No.": 8,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jan 2021",
+      "Principal Remaining": 750577.84
+    },
+    {
+      "EMI No.": 9,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Feb 2021",
+      "Principal Remaining": 738850.07
+    },
+    {
+      "EMI No.": 10,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Mar 2021",
+      "Principal Remaining": 727122.3
+    },
+    {
+      "EMI No.": 11,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Apr 2021",
+      "Principal Remaining": 715394.53
+    },
+    {
+      "EMI No.": 12,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th May 2021",
+      "Principal Remaining": 703666.76
+    },
+    {
+      "EMI No.": 13,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jun 2021",
+      "Principal Remaining": 691938.99
+    },
+    {
+      "EMI No.": 14,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jul 2021",
+      "Principal Remaining": 680211.22
+    },
+    {
+      "EMI No.": 15,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Aug 2021",
+      "Principal Remaining": 668483.45
+    },
+    {
+      "EMI No.": 16,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Sep 2021",
+      "Principal Remaining": 656755.68
+    },
+    {
+      "EMI No.": 17,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Oct 2021",
+      "Principal Remaining": 645027.91
+    },
+    {
+      "EMI No.": 18,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Nov 2021",
+      "Principal Remaining": 633300.14
+    },
+    {
+      "EMI No.": 19,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Dec 2021",
+      "Principal Remaining": 621572.37
+    },
+    {
+      "EMI No.": 20,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jan 2022",
+      "Principal Remaining": 609844.6
+    },
+    {
+      "EMI No.": 21,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Feb 2022",
+      "Principal Remaining": 598116.83
+    },
+    {
+      "EMI No.": 22,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Mar 2022",
+      "Principal Remaining": 586389.06
+    },
+    {
+      "EMI No.": 23,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Apr 2022",
+      "Principal Remaining": 574661.29
+    },
+    {
+      "EMI No.": 24,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th May 2022",
+      "Principal Remaining": 562933.52
+    },
+    {
+      "EMI No.": 25,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jun 2022",
+      "Principal Remaining": 551205.75
+    },
+    {
+      "EMI No.": 26,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jul 2022",
+      "Principal Remaining": 539477.98
+    },
+    {
+      "EMI No.": 27,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Aug 2022",
+      "Principal Remaining": 527750.21
+    },
+    {
+      "EMI No.": 28,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Sep 2022",
+      "Principal Remaining": 516022.44
+    },
+    {
+      "EMI No.": 29,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Oct 2022",
+      "Principal Remaining": 504294.67
+    },
+    {
+      "EMI No.": 30,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Nov 2022",
+      "Principal Remaining": 492566.9
+    },
+    {
+      "EMI No.": 31,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Dec 2022",
+      "Principal Remaining": 480839.13
+    },
+    {
+      "EMI No.": 32,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jan 2023",
+      "Principal Remaining": 469111.36
+    },
+    {
+      "EMI No.": 33,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Feb 2023",
+      "Principal Remaining": 457383.59
+    },
+    {
+      "EMI No.": 34,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Mar 2023",
+      "Principal Remaining": 445655.82
+    },
+    {
+      "EMI No.": 35,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Apr 2023",
+      "Principal Remaining": 433928.05
+    },
+    {
+      "EMI No.": 36,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th May 2023",
+      "Principal Remaining": 422200.28
+    },
+    {
+      "EMI No.": 37,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jun 2023",
+      "Principal Remaining": 410472.51
+    },
+    {
+      "EMI No.": 38,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jul 2023",
+      "Principal Remaining": 398744.74
+    },
+    {
+      "EMI No.": 39,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Aug 2023",
+      "Principal Remaining": 387016.97
+    },
+    {
+      "EMI No.": 40,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Sep 2023",
+      "Principal Remaining": 375289.2
+    },
+    {
+      "EMI No.": 41,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Oct 2023",
+      "Principal Remaining": 363561.43
+    },
+    {
+      "EMI No.": 42,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Nov 2023",
+      "Principal Remaining": 351833.66
+    },
+    {
+      "EMI No.": 43,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Dec 2023",
+      "Principal Remaining": 340105.89
+    },
+    {
+      "EMI No.": 44,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jan 2024",
+      "Principal Remaining": 328378.12
+    },
+    {
+      "EMI No.": 45,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Feb 2024",
+      "Principal Remaining": 316650.35
+    },
+    {
+      "EMI No.": 46,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Mar 2024",
+      "Principal Remaining": 304922.58
+    },
+    {
+      "EMI No.": 47,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Apr 2024",
+      "Principal Remaining": 293194.81
+    },
+    {
+      "EMI No.": 48,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th May 2024",
+      "Principal Remaining": 281467.04
+    },
+    {
+      "EMI No.": 49,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jun 2024",
+      "Principal Remaining": 269739.27
+    },
+    {
+      "EMI No.": 50,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jul 2024",
+      "Principal Remaining": 258011.5
+    },
+    {
+      "EMI No.": 51,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Aug 2024",
+      "Principal Remaining": 246283.73
+    },
+    {
+      "EMI No.": 52,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Sep 2024",
+      "Principal Remaining": 234555.96
+    },
+    {
+      "EMI No.": 53,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Oct 2024",
+      "Principal Remaining": 222828.19
+    },
+    {
+      "EMI No.": 54,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Nov 2024",
+      "Principal Remaining": 211100.42
+    },
+    {
+      "EMI No.": 55,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Dec 2024",
+      "Principal Remaining": 199372.65
+    },
+    {
+      "EMI No.": 56,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jan 2025",
+      "Principal Remaining": 187644.88
+    },
+    {
+      "EMI No.": 57,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Feb 2025",
+      "Principal Remaining": 175917.11
+    },
+    {
+      "EMI No.": 58,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Mar 2025",
+      "Principal Remaining": 164189.34
+    },
+    {
+      "EMI No.": 59,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Apr 2025",
+      "Principal Remaining": 152461.57
+    },
+    {
+      "EMI No.": 60,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th May 2025",
+      "Principal Remaining": 140733.8
+    },
+    {
+      "EMI No.": 61,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jun 2025",
+      "Principal Remaining": 129006.03
+    },
+    {
+      "EMI No.": 62,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jul 2025",
+      "Principal Remaining": 117278.26
+    },
+    {
+      "EMI No.": 63,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Aug 2025",
+      "Principal Remaining": 105550.49
+    },
+    {
+      "EMI No.": 64,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Sep 2025",
+      "Principal Remaining": 93822.72
+    },
+    {
+      "EMI No.": 65,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Oct 2025",
+      "Principal Remaining": 82094.95
+    },
+    {
+      "EMI No.": 66,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Nov 2025",
+      "Principal Remaining": 70367.18
+    },
+    {
+      "EMI No.": 67,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Dec 2025",
+      "Principal Remaining": 58639.41
+    },
+    {
+      "EMI No.": 68,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Jan 2026",
+      "Principal Remaining": 46911.64
+    },
+    {
+      "EMI No.": 69,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Feb 2026",
+      "Principal Remaining": 35183.87
+    },
+    {
+      "EMI No.": 70,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Mar 2026",
+      "Principal Remaining": 23456.1
+    },
+    {
+      "EMI No.": 71,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th Apr 2026",
+      "Principal Remaining": 11728.33
+    },
+    {
+      "EMI No.": 72,
+      "Principal EMI": 6944.44,
+      "Interest EMI": 4783.33,
+      "Total EMI": 11727.77,
+      "EMI Date": "06th May 2026",
+      "Principal Remaining": 0
+    }
+  ]
+}

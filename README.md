@@ -15,23 +15,26 @@ A sample command will be:<br>
 <p><code>python .\loan.py 1000 12 12 -o "sample.json"</code></p>
 
 ### Function Descriptions
-For loan.py<br><br>
+For loan.py<br>
 
-tojsonfile()<br>
+<b>tojsonfile()</b><br>
 Converts the output dictionary to a downloadable json file in the specified path.
 
 Class loan_management<br>
 
 <ul>
-<li>__init__()</li>
+<li><b>__init__()</b></li>
 Constructor to instantiate the variables for calculations. Since the input to the python script is principal_amt, num_of_emi and interest_rate_per_anum, these 3 parameters will be fed to the constructor while initializing the class object.
 
-<li>emi_calc()</li>
+<li><b>emi_calc()</b></li>
 This is to calculate principal_emi, interest_emi and total_emi. Return all the aforementioned.
 
-<li>calc_for_duration()</li>
+<li><b>calc_for_duration()</b></li>
 Returns a dictionary where along with the basic details of loan, details about EMI for each month is also present.
 </ul>
 
 Sample output of program:<br>
 ![sample_output](Capture.JPG)
+
+### Unit test cases
+I have taken 5 test cases, given in the <b>test_cases.py</b> file. When run using the command <code>python test_cases.py</code>, it will check both how the program prints as well pushes the data to json. The test jsons are labeled as <b>test1.json</b> etc. 

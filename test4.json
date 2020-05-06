@@ -1,0 +1,24 @@
+{
+  "Loan Creation Date": "06th May 2020",
+  "Principal Amount": 12,
+  "No Of EMI's": 2,
+  "Total payable amount": 12.075,
+  "EMI Details": [
+    {
+      "EMI No.": 1,
+      "Principal EMI": 6.0,
+      "Interest EMI": 0.04,
+      "Total EMI": 6.04,
+      "EMI Date": "06th Jun 2020",
+      "Principal Remaining": 0
+    },
+    {
+      "EMI No.": 2,
+      "Principal EMI": 6.0,
+      "Interest EMI": 0.04,
+      "Total EMI": 6.04,
+      "EMI Date": "06th Jul 2020",
+      "Principal Remaining": 0
+    }
+  ]
+}

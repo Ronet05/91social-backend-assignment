@@ -65,7 +65,7 @@ class loan_management:
 
 if __name__ == "__main__":
     arg= sys.argv
-    emi_object = loan_management(int(arg[1]), int(arg[2]), int(arg[3]))
+    emi_object = loan_management(float(arg[1]), int(arg[2]), float(arg[3]))
     try:
         if(arg[4]=="-o"):
             output_file_path = arg[5]
