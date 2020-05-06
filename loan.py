@@ -17,6 +17,8 @@ class loan_management:
         self.duration = time
         self.rate_anum = r
         self.payable_amt = p+(p*r*(time/12))/100
+        
+        # the following code can be changed to a manual start date as per the need of the developer. I have used the current date.
         self.created_date = date.today()
 
 
@@ -29,8 +31,9 @@ class loan_management:
         return emi_principal, emi_interest, total_emi
 
     def calc_for_duration(self):
-        #constant for every month
         response = {}
+
+        #constant for every month
         emi_principal, emi_interest, total_emi = self.emi_calc()
         start_principal = self.payable_amt
         deadline_date = self.created_date
