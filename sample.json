@@ -1,0 +1,104 @@
+{
+  "Loan Creation Date": "06th May 2020",
+  "Principal Amount": 1000,
+  "No Of EMI's": 12,
+  "Total payable amount": 1120.0,
+  "EMI Details": [
+    {
+      "EMI No.": 1,
+      "Principal EMI": 83.33,
+      "Interest EMI": 10.0,
+      "Total EMI": 93.33,
+      "EMI Date": "06th Jun 2020",
+      "Principal Remaining": 1026.67
+    },
+    {
+      "EMI No.": 2,
+      "Principal EMI": 83.33,
+      "Interest EMI": 10.0,
+      "Total EMI": 93.33,
+      "EMI Date": "06th Jul 2020",
+      "Principal Remaining": 933.34
+    },
+    {
+      "EMI No.": 3,
+      "Principal EMI": 83.33,
+      "Interest EMI": 10.0,
+      "Total EMI": 93.33,
+      "EMI Date": "06th Aug 2020",
+      "Principal Remaining": 840.01
+    },
+    {
+      "EMI No.": 4,
+      "Principal EMI": 83.33,
+      "Interest EMI": 10.0,
+      "Total EMI": 93.33,
+      "EMI Date": "06th Sep 2020",
+      "Principal Remaining": 746.68
+    },
+    {
+      "EMI No.": 5,
+      "Principal EMI": 83.33,
+      "Interest EMI": 10.0,
+      "Total EMI": 93.33,
+      "EMI Date": "06th Oct 2020",
+      "Principal Remaining": 653.35
+    },
+    {
+      "EMI No.": 6,
+      "Principal EMI": 83.33,
+      "Interest EMI": 10.0,
+      "Total EMI": 93.33,
+      "EMI Date": "06th Nov 2020",
+      "Principal Remaining": 560.02
+    },
+    {
+      "EMI No.": 7,
+      "Principal EMI": 83.33,
+      "Interest EMI": 10.0,
+      "Total EMI": 93.33,
+      "EMI Date": "06th Dec 2020",
+      "Principal Remaining": 466.69
+    },
+    {
+      "EMI No.": 8,
+      "Principal EMI": 83.33,
+      "Interest EMI": 10.0,
+      "Total EMI": 93.33,
+      "EMI Date": "06th Jan 2021",
+      "Principal Remaining": 373.36
+    },
+    {
+      "EMI No.": 9,
+      "Principal EMI": 83.33,
+      "Interest EMI": 10.0,
+      "Total EMI": 93.33,
+      "EMI Date": "06th Feb 2021",
+      "Principal Remaining": 280.03
+    },
+    {
+      "EMI No.": 10,
+      "Principal EMI": 83.33,
+      "Interest EMI": 10.0,
+      "Total EMI": 93.33,
+      "EMI Date": "06th Mar 2021",
+      "Principal Remaining": 186.7
+    },
+    {
+      "EMI No.": 11,
+      "Principal EMI": 83.33,
+      "Interest EMI": 10.0,
+      "Total EMI": 93.33,
+      "EMI Date": "06th Apr 2021",
+      "Principal Remaining": 93.37
+    },
+    {
+      "EMI No.": 12,
+      "Principal EMI": 83.33,
+      "Interest EMI": 10.0,
+      "Total EMI": 93.33,
+      "EMI Date": "06th May 2021",
+      "Principal Remaining": 0
+    }
+  ]
+}
