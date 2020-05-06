@@ -18,7 +18,7 @@ if __name__ == "__main__":
     obj = TestCases()
     count=0
     for i in inputs:
-        path = 'test'+str(count)+'.json'
+        path = 'test_jsons/test'+str(count)+'.json'
         count+=1
         obj.checkcase_normal(i)
         obj.checkcase_json(i,path)
