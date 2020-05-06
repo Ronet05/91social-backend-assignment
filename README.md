@@ -37,4 +37,4 @@ Sample output of program:<br>
 ![sample_output](Capture.JPG)
 
 ### Unit test cases
-I have taken 5 test cases, given in the <b>test_cases.py</b> file. When run using the command <code>python test_cases.py</code>, it will check both how the program prints as well pushes the data to json. The test jsons are labeled as <b>test1.json</b> etc. 
+I have taken 5 test cases, given in the <b>test_cases.py</b> file. When run using the command <code>python test_cases.py</code>, it will check both how the program prints as well pushes the data to json. The test jsons are labeled as <b>test1.json</b> etc. in the test_jsons directory.  
